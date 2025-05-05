@@ -156,7 +156,8 @@ project-name/
 ---
 
 Sumber Refrensi :
-- https://www.kaggle.com/code/satyaprakashshukl/rice-classification 
+- https://www.kaggle.com/code/satyaprakashshukl/rice-classification
+  
 [1]	K. H. Ng, S. C. Liew, and F. Ernawan, “An Improved Image Steganography Scheme Based on RDWT and QR Decomposition,” IOP Conf. Ser. Mater. Sci. Eng., vol. 769, no. 1, pp. 222–231, 2020. 
 
 [2]	B. Ando, S. Baglio, S. Castorina, R. Crispino, and V. Marletta, “A Methodology for the Development of Low-Cost, Flexible Touch Sensor for Application in Assistive Technology,” IEEE Trans. Instrum. Meas., vol. 70, 2021. 
